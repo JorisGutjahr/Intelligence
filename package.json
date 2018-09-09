@@ -1,0 +1,19 @@
+{
+  "name": "intelligence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorisGutjahr/Intelligence.git"
+  },
+  "author": "Joris Gutjahr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JorisGutjahr/Intelligence/issues"
+  },
+  "homepage": "https://github.com/JorisGutjahr/Intelligence#readme"
+}
